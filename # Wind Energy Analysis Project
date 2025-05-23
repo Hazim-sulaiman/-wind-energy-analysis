@@ -1,0 +1,13 @@
+# Wind Energy Data Analysis
+
+This project analyzes wind turbine installations, capacity growth, and market trends in the US wind sector.
+
+## Key Insights
+- Rapid industry growth after 2005
+- Larger and more efficient turbines over time
+- Policy stability is critical for investment
+
+## How to Use
+- Open notebooks in Jupyter or VS Code
+- Review data and charts
+- See the PPT for summary results
